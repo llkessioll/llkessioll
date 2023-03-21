@@ -1,7 +1,7 @@
 ### Olá eu sou Kessio Romero 👋
 
 - 🔭 Atualmente Trabalhando de Repositor em uma Loja.
-- 🌱 2° Periodo Tecnólogo em Análise e Desenvolvimento de Sistemas (IFPE - Garanhuns)
+- 🌱 3° Periodo Tecnólogo em Análise e Desenvolvimento de Sistemas (IFPE - Garanhuns)
 
 ##
 
