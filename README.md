@@ -27,7 +27,7 @@
 |![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)|
 |![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)|
 |![POSTGRESQL](https://img.shields.io/badge/postgresql-000?style=for-the-badge&logo=postgresql)|
-|![MONGODB](https://img.shields.io/badge/postgresql-000?style=for-the-badge&logo=mongodb)|
+|![MONGODB](https://img.shields.io/badge/mongodb-000?style=for-the-badge&logo=mongodb)|
 
 
 <div align="center">
