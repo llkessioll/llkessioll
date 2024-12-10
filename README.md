@@ -3,15 +3,15 @@
 
 ## Sobre
 
-    Já trabalho com tecnologia há um tempo abaixo estão algumas descrições:
+    Já trabalho com tecnologia há um tempo:
     - Trabalhei com montagem e manuteção de micros
-    - Provedor de internet
+    - Tecnico em um provedor de internet
     - Uma pequena gráfica
-     Atualmente sou clt em uma loja na função de repositor
+     Atualmente na função de repositor
 
 ## Cursos
     Sou aluno do Instituto Federal de Pernanbunco ( IFPE ) campus Garanhuns
-    3º periodo de Analise e Desenvolvimento de Sistemas
+    4º periodo de Analise e Desenvolvimento de Sistemas
 
 ## Contato
 
@@ -27,6 +27,7 @@
 |![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)|
 |![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)|
 |![POSTGRESQL](https://img.shields.io/badge/postgresql-000?style=for-the-badge&logo=postgresql)|
+|![MONGODB](https://img.shields.io/badge/postgresql-000?style=for-the-badge&logo=mongodb)|
 
 
 <div align="center">
